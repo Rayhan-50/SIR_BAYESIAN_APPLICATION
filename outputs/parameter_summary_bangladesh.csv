@@ -1,0 +1,5 @@
+Parameter,Median,5% CrI,95% CrI
+β (weekly transmission rate),0.207,0.195,0.23
+γ (weekly recovery rate),0.009,0.001,0.035
+R₀ (basic reproduction number),21.981,6.585,225.419
+Recovery time (weeks),106.235,28.823,1127.825
